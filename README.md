@@ -1,4 +1,4 @@
-Perfeito! Vamos criar uma história do zero. Aqui vai o começo, e podemos expandir juntos:
+
 
 ---
 
@@ -12,4 +12,3 @@ Lia foi recebida pelos Alvorianos, que lhe contaram sobre sua missão: o Vento S
 
 ---
 
-Gostou do começo? Quer continuar ou adicionar algo diferente?
